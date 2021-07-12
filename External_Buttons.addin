@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Buttons for Autodesk® Revit® 2019 +</Name>
+    <Assembly>External_Buttons.dll</Assembly>
+    <AddInId>5C639EE3-3082-40B0-9A7D-060DA9313FA4</AddInId>
+    <FullClassName>External_Buttons.ExternalApplication</FullClassName>
+    <Description>Autodesk® Revit® Plugin | External_Buttons</Description>
+    <VendorId>External_Buttons</VendorId>
+    <VendorDescription>External_Buttons</VendorDescription>
+  </AddIn>
+</RevitAddIns>
